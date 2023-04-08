@@ -9,4 +9,4 @@ Tech Stack:
 React 18
 
 Architecture:
-This project follows the clean architecture pattern which emphasizes separation of concerns and testability. The app architecture consists of API, Application, Persistence, and Domain projects.
+This project follows the clean architecture pattern which emphasizes separation of concerns and testability. The app consists of API, Application, Persistence, and Domain projects.
