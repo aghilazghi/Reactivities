@@ -5,8 +5,7 @@ Motivation:
 I developed this project while taking an online course to resharpen my full stack development skills. The course focused on building a scalable and maintainable web application using modern technologies and best practices.
 
 Tech Stack:
-.NET 7
-React 18
+.NET 7, React 18, Typescript, Axios, and Semantic-ui
 
 Architecture:
 This project follows the clean architecture pattern which emphasizes separation of concerns and testability. The app consists of API, Application, Persistence, and Domain projects.
